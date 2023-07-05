@@ -2,6 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
         double celsius = 22;
+        // Cálculo da fórmula de conversão celsius -> farenheit.
         double farenheit = (celsius * 1.8) + 32;
         int farenheitInt = (int) farenheit;
 
