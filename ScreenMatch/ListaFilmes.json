@@ -1,0 +1,26 @@
+[
+  {
+    "Nome": "The Shawshank Redemption",
+    "AnoDeLancamento": 1994,
+    "DuracaoEmMinutos": 142,
+    "IncluidoNoPlano": false,
+    "SomaDasAvaliacoes": 0.0,
+    "TotalDeAvaliacoes": 0
+  },
+  {
+    "Nome": "Dogville",
+    "AnoDeLancamento": 2003,
+    "DuracaoEmMinutos": 178,
+    "IncluidoNoPlano": false,
+    "SomaDasAvaliacoes": 0.0,
+    "TotalDeAvaliacoes": 0
+  },
+  {
+    "Nome": "The Avengers",
+    "AnoDeLancamento": 2012,
+    "DuracaoEmMinutos": 143,
+    "IncluidoNoPlano": false,
+    "SomaDasAvaliacoes": 0.0,
+    "TotalDeAvaliacoes": 0
+  }
+]

@@ -11,6 +11,10 @@ import java.util.Comparator;
 
 public class PrincipalComListas {
     public static void main(String[] args) {
+
+        // API KEY = 395a9e90
+        // LINK  = http://www.omdbapi.com/?i=tt3896198&apikey=395a9e90
+
         Filme favorito = new Filme("The Matrix", 1999);
         favorito.avalia(10);
         Filme outro = new Filme("John Wick", 2014);
